@@ -4,3 +4,6 @@ h1{
 .important{
   color:red;
 }
+.unimportant{
+  background-color: blue
+}
