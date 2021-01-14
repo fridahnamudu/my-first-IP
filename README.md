@@ -1,6 +1,6 @@
 # MY PROFILE.
 ### 13.07.2020
-#### This is a website about my profile.  
+#### This is a website about myself.
 #### By **FRIDAH NAMUDU**
 ## Description
 The purpose of this website is for moringa school prep training in website development where I talk about myself.It highlights my hobbies,likes and dislikes,my education,my family and most of all me.
