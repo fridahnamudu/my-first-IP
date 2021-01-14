@@ -1,9 +1,9 @@
-# TALENT WEBSITE.
+# MY PROFILE.
 ### 13.07.2020
-#### This is a website about my talent.  
+#### This is a website about my profile.  
 #### By **FRIDAH NAMUDU**
 ## Description
-The purpose of this website is for moringa school prep training in website development where I talk about my talent.It highlights my talent and how i use it.
+The purpose of this website is for moringa school prep training in website development where I talk about myself.It highlights my hobbies,likes and dislikes,my education,my family and most of all me.
 The link to the live site on Github Pages is ( https://fridahnamudu.github.io/my-first-IP/)
 ## Setup/Installation Requirements
 * git clone (https://github.com/fridahnamudu/my-first-IP.git)
